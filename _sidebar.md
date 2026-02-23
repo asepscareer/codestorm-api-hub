@@ -1,0 +1,9 @@
+- [Home](README.md)
+- **Our APIs**
+  - [Go Finance (Google)](apis/go-finance.md)
+  - [Crypto Tracker](apis/crypto-hub.md)
+  - [Forex Realtime](apis/forex-pro.md)
+- **Legal**
+  - [Terms of Use](TERMS_OF_USE.md)
+- **Support**
+  - [Contact Slack](https://slack.com/app_redirect?channel=U0152A7MEES)
